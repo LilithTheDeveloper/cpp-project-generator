@@ -1,6 +1,9 @@
 {
     "name": "cpp-project-generator",
     "displayName": "C++ Project Generator",
+    "repository": {
+        "url": "https://github.com/LilithTheDeveloper/vscode-cpp-project-generator"
+    },
     "publisher": "liliththedev",
     "description": "Generate C++ Projects simple stupid",
     "author": {
