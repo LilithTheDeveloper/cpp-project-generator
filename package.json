@@ -24,7 +24,7 @@
         "commands": [
             {
                 "command": "cpp-project-generator.generateProject",
-                "title": "Generate default C++ project with 'Hello World'"
+                "title": "CPPPG: Generate default C++ project with 'Hello World'"
             }
         ]
     },

@@ -5,6 +5,8 @@ Overworked C++ project generator. Generates C++ projects including a (possibly) 
 ## Features
 
 Generate C++ Projects, nuff said
+
+![Generate Project Gif](assets/GenerateProject.gif)
  
 ## Requirements
 
