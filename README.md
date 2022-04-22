@@ -1,4 +1,4 @@
-# cpp-project-generator README
+# VSCode Extension: C++ Project Generator README
 
 Overworked C++ project generator. Generates C++ projects including a (possibly) working .vscode enviroment. [stackoverflow said so](https://stackoverflow.com/a/50658089).
 
