@@ -1,5 +1,7 @@
 # VSCode Extension: C++ Project Generator README
 
+[Repositry](https://github.com/LilithTheDeveloper/vscode-cpp-project-generator) | [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=liliththedev.cpp-project-generator)
+
 Overworked C++ project generator. Generates C++ projects including a (possibly) working .vscode enviroment. [stackoverflow said so](https://stackoverflow.com/a/50658089).
 
 ## Features
